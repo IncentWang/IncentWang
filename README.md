@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IncentWang
 - 💬: I’m interested in Game Development!
-- 💞️ I’m looking to collaborate on some small projects based on Python/ Java/ C++/ C#
+- 👀: I’m looking to collaborate on some small projects based on Python/ Java/ C++/ C#
 - 📫 Contact me via wwhincent@gmail.com
 - :smiley_cat: Have a cute cat! His name is Shier (twelve in Chinese). 
 
