@@ -4,6 +4,7 @@
 - 📫 Contact me via wangweihan@noverlap.games
 - :smiley_cat: Have a cute cat! His name is Shier (twelve in Chinese). 
 - Hope You All Love My Game!
+- new IncentWang();
 
 
 <!---
